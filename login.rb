@@ -12,6 +12,7 @@ module Login
   return user_choice.strip.to_i
   end
  #this is a comment by orpia
+#comment 2 by orpia
 end
 
 
